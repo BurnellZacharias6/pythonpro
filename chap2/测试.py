@@ -1,0 +1,7 @@
+name=input("请输入名字：")
+age=input("请输入年龄：")
+flag=input("座右铭")
+print("--------------------")
+print("姓名：", name)
+print("年龄：", age)
+print("座右铭：", flag)
