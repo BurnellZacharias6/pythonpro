@@ -1,0 +1,11 @@
+s='helloWorld'
+s1=s[0:5:3]
+print(s1)
+print(s[0::1])
+print(s[::1])
+print(s[::])
+print(s[::2])
+print(s[::5])
+print(s[::-1])
+print(s[-1:-11:-1])
+print(s[-11:-1:-1])
