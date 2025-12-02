@@ -1,0 +1,6 @@
+num1=123456
+num2=0B01011010
+num3=0O1234567
+num4=0x123456ABc
+
+print(num1,num2,num3,num4)
