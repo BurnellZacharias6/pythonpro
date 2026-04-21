@@ -11,13 +11,52 @@ print(y.real,y.imag)
 
 print('背\n景\n环\n境')
 print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
+print(R'背\n景\n环\n境')
 print(r'背\n景\n环\n境')
 
 z='北京冬奥会'
 print(z*5)
 
 print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
+print('北京' in z)
 print('北京1' in z)
+
+
+
+
+
 
 print('----------------------')
 print(bool(0),bool(0.0))
